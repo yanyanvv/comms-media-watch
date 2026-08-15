@@ -44,7 +44,7 @@ Record the mode, period, cutoff, timezone, geography, languages, audience, scope
 
 For recurring work, divide coverage into three groups:
 
-- **Core**: Check about 10 to 20 entities directly on every run.
+- **Core**: Check about 20 entities directly on every run.
 - **Secondary**: Scan about 20 to 40 entities through triggers, filings, earnings calendars, and material news searches.
 - **Long tail**: Discover entities through themes, regulators, transactions, suppliers, customers, unions, and early signals.
 
