@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comms and Media Watch"
+  short_description: "Track material changes across media and telecom"
+  default_prompt: "Run $comms-media-watch and prepare a current, source-backed communications and media brief."
